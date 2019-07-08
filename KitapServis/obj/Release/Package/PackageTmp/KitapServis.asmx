@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="KitapServis.asmx.cs" Class="KitapServis.Service1" %>

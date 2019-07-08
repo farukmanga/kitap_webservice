@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Manga\Desktop\asd1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/KitapServis.dll">
+      <publishTime>07/08/2019 14:34:47</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/24/2018 19:47:57</publishTime>
+    </File>
+    <File Include="KitapServis.asmx">
+      <publishTime>07/01/2019 21:25:12</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/04/2019 23:30:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

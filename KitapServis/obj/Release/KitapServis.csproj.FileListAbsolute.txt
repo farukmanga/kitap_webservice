@@ -1,0 +1,7 @@
+C:\Users\Manga\documents\visual studio 2013\Projects\KitapServis\KitapServis\bin\KitapServis.dll.config
+C:\Users\Manga\documents\visual studio 2013\Projects\KitapServis\KitapServis\bin\KitapServis.dll
+C:\Users\Manga\documents\visual studio 2013\Projects\KitapServis\KitapServis\bin\KitapServis.pdb
+C:\Users\Manga\documents\visual studio 2013\Projects\KitapServis\KitapServis\bin\Newtonsoft.Json.xml
+C:\Users\Manga\documents\visual studio 2013\Projects\KitapServis\KitapServis\obj\Release\KitapServis.csprojResolveAssemblyReference.cache
+C:\Users\Manga\documents\visual studio 2013\Projects\KitapServis\KitapServis\obj\Release\KitapServis.dll
+C:\Users\Manga\documents\visual studio 2013\Projects\KitapServis\KitapServis\obj\Release\KitapServis.pdb
